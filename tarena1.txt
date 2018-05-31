@@ -1,0 +1,2 @@
+java is sun software
+git is linus software
